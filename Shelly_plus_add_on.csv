@@ -1,0 +1,16 @@
+Shelly_Plus_add_on,,
+Pin,Type,Name
+1,power_out,VCC
+2,input,DATA
+3,power_out,GND
+4,power_out,VCC
+5,input,DATA
+6,power_out,GND
+7,power_out,VCC
+8,input,DATA
+9,power_out,GND
+10,input,ANALOG IN
+11,power_out,GND
+12,input,DIGITAL IN
+13,output,VREF OUT
+14,output,VREF + R1 OUT

@@ -1,0 +1,9 @@
+shelly_1pm_gen3,,
+Pin,    Type,           Name
+7,     output,O
+6,input,SW
+5,     power_in,L
+4,     power_in,L
+3,     power_in,L
+2,     power_in,N
+1,      power_in,N
